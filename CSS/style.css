@@ -8,6 +8,10 @@
 ::-webkit-scrollbar {
     width: 0px;
 }
+#cv:hover {
+    color: #f74c08;
+    text-shadow: 0 0 10px #00e0ff;
+}
 
 body {
     background-image: url('Images/background.png');
